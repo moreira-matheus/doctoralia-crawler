@@ -40,5 +40,6 @@ doctoralia-crawler
 - [x] Process items using an item pipeline;
 - [x] Drop empty-named items using `scrapy.exceptions.DropItem`;
 - [x] Export items using `scrapy.exporters.CsvItemExporter`;
+- [ ] Retrieve GMaps link for each address;
 - [ ] Parallelize requests by specialty;
 - [ ] Improve .xls output formatting.
